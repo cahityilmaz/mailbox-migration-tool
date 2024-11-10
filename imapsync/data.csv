@@ -1,0 +1,11 @@
+source1@host1.net;;source1pass;target1@host2.net;target2admin@host2.net;target2pass
+source2@host1.net;;source2pass;target2@host2.net;target2admin@host2.net;target2pass
+source3@host1.net;;source3pass;target3@host2.net;target3admin@host2.net;target3pass
+source4@host1.net;;source4pass;target4@host2.net;target4admin@host2.net;target4pass
+source5@host1.net;;source5pass;target5@host2.net;target5admin@host2.net;target5pass
+source6@host1.net;;source6pass;target6@host2.net;target6admin@host2.net;target6pass
+source7@host1.net;source7pass;target7@host2.net;target7admin@host2.net;target7pass
+
+source8@host1.net;;source8pass;target8@host2.net;target8admin@host2.net;target8pass
+source9@host1.net;;source9pass;target9@host2.net;target9admin@host2.net;target9pass
+source10@host1.net;;source10pass;target10@host2.net;target10admin@host2.net;target10pass

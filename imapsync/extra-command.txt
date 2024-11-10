@@ -1,0 +1,4 @@
+--automap
+--addheader
+--noreleasecheck
+--no-modulesversion
