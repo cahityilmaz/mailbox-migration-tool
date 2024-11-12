@@ -1,4 +1,4 @@
-* Mailbox Migration Tool *
+** Mailbox Migration Tool **
 
 This tool provides a GUI for imapsync application.
 
